@@ -1,0 +1,36 @@
+.main{
+    display: flex;
+    /* justify-content: space-between; */
+    width: 150px;
+    height: 400px;
+    flex-wrap: wrap;
+    /* align-items: last baseline; */
+    /* padding: 10px 30px; */
+    align-content: space-between;
+    border: 2px solid black;
+}
+.card1 {
+    background-color: lightblue;
+    height: 100px;
+    width: 100px;
+}
+.card2 {
+    background-color: lightgreen;
+    height: 100px;
+    width: 100px;   
+    align-self: center;
+}
+.card3 {
+    background-color: lightcoral;
+    height: 100px;
+    width: 100px;   
+}
+/* .links a {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.logo img {
+    width: 100px;
+    height: 100px;
+} */
