@@ -1,0 +1,91 @@
+/* .main{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    left: 100px;
+    position: absolute;
+    top: 250px;
+    right: 505px;
+    bottom: 250px;
+    z-index: -1;
+}
+.card4 {
+    background-color: lightblue;
+    height: 100px;
+    width: 100px;
+    z-index: -2;
+    left: 200px;
+    bottom: 100px;
+    position: absolute;
+}
+.card3 {
+    background-color: lightgreen;
+    height: 100px;
+    width: 100px;
+    z-index: -3; 
+    left: 250px;
+    bottom: 150px;
+    position: absolute;
+}
+.card2 {
+    background-color: lightcoral;
+    height: 100px;
+    width: 100px;
+    z-index: -4;
+    left: 300px;
+    bottom: 200px;
+    position: absolute;
+}
+.card1 {
+    background-color: rgba(91, 99, 160, 0.192);
+    height: 100px;
+    width: 100px;
+    z-index: -5;
+    left: 350px;
+    bottom: 250px;
+    position: absolute;
+}
+
+p{
+    float: right;
+    clear: left;
+}
+.a{
+    visibility: visible;
+    float: left;
+}
+.b{
+    visibility: hidden;
+} */
+
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 229, 255);
+    margin: 100px;
+    box-shadow: 0px 0px 3px 15px red; 
+    text-shadow: 0px 0px 25px rgba(21, 0, 255, 0.666);
+} */
+
+/* .grid-container {
+    display: grid;
+    text-align: center;
+    grid-template-columns: 100px 100px 100px;
+    gap: 10px;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+.grid-item {
+    background-color: rgb(0, 229, 255);
+    padding: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    text-align: center;
+} */
+
+.main{
+    width: 400px;
+    height: 400px;
+    background-color: thistle;
+    background-image: repeating-linear-gradient(22deg, orange 0%, orange 40%, white 40%, white 80%, green 80%, green 100%);
+}

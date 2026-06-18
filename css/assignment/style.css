@@ -167,7 +167,7 @@
     background-color: green;
     width: 500px;
     display: flex;
-    border: 8px solid red;
+    border: 8px solid rgb(255, 153, 0);
     box-shadow: 10px 10px 5px purple;
     border-radius: 10px;
     justify-content: space-around;
