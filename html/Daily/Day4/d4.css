@@ -83,9 +83,24 @@ p{
     text-align: center;
 } */
 
-.main{
+/* pie chart */
+/* .main{
+    float: right;
+    top: 200px;
+    position: relative;
     width: 400px;
     height: 400px;
-    background-color: thistle;
-    background-image: repeating-linear-gradient(22deg, orange 0%, orange 40%, white 40%, white 80%, green 80%, green 100%);
+    background-color: goldenrod;
+    background-image: conic-gradient(gold 0% 30%, silver 30% 70%, green 70% 90%);
+    border-radius: 50%;
+} */
+
+.main {
+    position: relative;
+    top:95px;
+    left: 100px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(165, 218, 32);
+    transform: scale(-0.8);
 }
