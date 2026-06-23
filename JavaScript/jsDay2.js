@@ -69,6 +69,39 @@
       
 // }
 
-for(let i = 1; i <= 10; i++) {
-    console.log("19 *", i, "=", 19 * i);;
-}
+// for(let i = 1; i <= 10; i++) {
+//     console.log("19 *", i, "=", 19 * i);;
+// }
+
+// let obj = {
+//     "name":"utk",
+//     "age": 23
+// }
+// console.log(obj);
+
+// for(let key in obj) {
+//     console.log(`${key} = ${obj[key]}`);
+// }
+
+// let i = 1
+
+// do {
+//     i++;
+//     console.log("Moshi moshi ", i);
+// } while (i < 5);
+
+// let str = "Utkarsh Maheshwari Moshi moshi"
+
+// let res = str.indexOf("os", 2)
+// let res1 = str.lastIndexOf("moshi")
+// console.log(res1);
+// console.log(res);
+
+let str1 = "konichiwa "
+// let str2 = "sensei"
+
+// console.log(str1.concat(str2));
+
+console.log(str1.slice(0, 5));
+
+
