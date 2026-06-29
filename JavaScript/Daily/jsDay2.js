@@ -97,11 +97,20 @@
 // console.log(res1);
 // console.log(res);
 
-let str1 = "konichiwa "
+var str1 = " konichiwa  MR. Maheshwari "
 // let str2 = "sensei"
 
 // console.log(str1.concat(str2));
 
-console.log(str1.slice(0, 5));
+// console.log(str1.slice());
+// console.log(str1.substring(11));
+
+// console.log(str1.replace(" ", "😘"));
+// console.log(str1.replaceAll(" ", "😘"));
+// console.log(str1.trim());
+
+// console.log(str1.split(" "));
+
+
 
 
